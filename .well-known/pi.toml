@@ -1,1 +1,8 @@
-
+[[CURRENCIES]]
+code="NLD"
+issuer="GBMZ5W4R7IYTVP6FIN4NT5CUIBETYFKNVXEIQ4XNEDNILUKBLLD6RZNU"
+display_decimals=7
+name="Nhan Lac Do Token"
+desc="NLD token used for the red peanut agricultural ecosystem"
+image="https://nhanlacdo9293.pinet.com/logo.png"
+domain="nhanlacdo9293.pinet.com"
