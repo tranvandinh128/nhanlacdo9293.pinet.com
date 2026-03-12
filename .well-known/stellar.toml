@@ -1,8 +1,9 @@
-NETWORK_PASSPHRASE="Pi Testnet"
+NETWORK_PASSPHRASE="Test SDF Network ; September 2015"
 
 [[CURRENCIES]]
-code="DYF"
-issuer="GBJ5AUPNDD4ASD5XCOANL6CACNEW3AUTAVPXEKSK3KIPJFDHRGVHF2HQ"
-name="DYF Token"
-desc="DYF Token on Pi Testnet"
-conditions="Test token"
+code="NLD"
+issuer="GBMZ5W4R7IYTVP6FIN4NT5CUIBETYFKNVXEIQ4XNEDNILUKBLLD6RZNU"
+display_decimals=7
+name="Nhan Lac Do Token"
+desc="Token NLD for the red peanut agricultural ecosystem"
+image="https://nhanlacdo9293.pinet.com/logo.png"
